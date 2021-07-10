@@ -5,7 +5,9 @@
 - 📫 How to reach me :
 E-mail:vanshajraj363@gmail.com
 LinkedIn:https://www.linkedin.com/in/vanshaj-raj/...
-https://github-readme-stats.vercel.app/api/pin?username=vanshaj1-dev&repo=github-readme-stats&show_icons=true&theme=darkpin
+<a href="https://github.com/vanshaj1-dev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanshaj1-dev&repo=github-readme-stats" />
+</a>
 
 <!---
 vanshaj1-dev/vanshaj1-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
