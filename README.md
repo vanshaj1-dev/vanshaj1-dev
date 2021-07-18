@@ -5,7 +5,7 @@
 - 📫 How to reach me :
 E-mail:vanshajraj363@gmail.com
 LinkedIn:https://www.linkedin.com/in/vanshaj-raj/...
-![Github stats](https://github-readme-stats.vercel.app/api?username=vanshaj1-dev&show_icons=true&theme=gotham)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vanshaj1-dev&show_icons=true&theme=gotham width="45%" align="right")
 
 
 <!---
