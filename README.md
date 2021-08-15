@@ -2,7 +2,7 @@
 - 👀 Enthusiastic about programming,cricket,entrepreneurship and memes
 - 🌱 I’m currently learning web development and python...
 - 💞️ I’m looking to collaborate on web development projects ...
-- 
+
  Find me on:
 
 <p align="center">
